@@ -1,0 +1,6 @@
+# language setting
+language: java
+
+# version numbers, testing against two versions of node
+node_js:
+    - 1.8.0_45
