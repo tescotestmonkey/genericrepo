@@ -2,5 +2,8 @@
 language: java
 
 # version numbers, testing against two versions of node
-node_js:
+java:
     - 1.8.0_45
+	
+gradle:
+    - 2.2
